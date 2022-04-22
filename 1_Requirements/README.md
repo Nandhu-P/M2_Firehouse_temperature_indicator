@@ -4,7 +4,8 @@ Firehouse is place where they used manufacture fireworks such as crackers etc,no
 ## OBJECTIVE
 The main objective of the project is to design a sensor unit which will help the workers in the work places to know about the temperature of highly cautious workplaces. This Firehouse_temperature_indicator management system is built on the microcontroller-based system having temperature sensor on the workhouses. If temperature sensor is not placed the workers may unaware of the surroundings and this may lead to problems.
 ## Defining the System
-![defining the system M2](https://user-images.githubusercontent.com/101622270/163931284-56938ba6-1c4d-4f25-bfe5-0808c92668bc.PNG)
+![Capture](https://user-images.githubusercontent.com/102171569/164711856-79ad485f-b734-4875-8c80-159a4250e0fe.JPG)
+
 ## BENIFITS
 - It improves human safety and avoid property damage.
 - Easy installation
