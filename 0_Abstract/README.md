@@ -1,1 +1,1 @@
-
+Firehouse is place where they used manufacture fireworks such as crackers etc,nowadys inspite of having many safety measures in firehouses many explosion happens due to human unawareness ,and it leads to many loss of life and property.The main reason for this is the increase in the temperature of the surroundings.In order to avoid the problem, if we place an temperature sensor and intimate the people about the variation of the temperature ,the people can be well aware in advance ,so that they can save their lives  and take necessory measures.
