@@ -52,3 +52,18 @@ This project is implemented in Embedded C language. The working principle of a F
 ## APPLICATIONS:
 - It can widely be used in industrial purposes.
 - It is used in many exploitation related places.
+## BEHAVIOURAL DIAGRAM
+[![behavioral diagram_M2](https://user-images.githubusercontent.com/102171569/164976257-c659153c-f529-4c5c-9616-bd0c846b7549.png)
+## BLOCK DIAGRAM
+![Block diagram](https://user-images.githubusercontent.com/102171569/164976335-1fd55b87-b342-407d-9bc6-418e030ddcd5.JPG)
+## FLOWCHART
+![flowchar1](https://user-images.githubusercontent.com/102171569/164976495-a2ad0ab4-9169-4ee9-91a1-140be83c68b8.JPG)
+## Folder Structure
+Folder        | description
+--------------| ----------------------------------------------
+`inc`         | All header files
+`src`         | Main source code for  Firehouse Temperature level indicator
+`simulation`  | simulation files for Firehouse Temperature level indicator
+
+
+
